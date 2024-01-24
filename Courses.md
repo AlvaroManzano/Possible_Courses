@@ -1,6 +1,6 @@
 ## Courses of Interest:
 
-### Cursos ercoftac y hlrs:
+### Courses ercoftac and hlrs:
 - From Machine Learning to Deep Learning: A concise introduction (Stuttgart, Germany; Mar 26, 2024)
   - https://www.hlrs.de/training/2024/dl-hlrs
 - DLES14 - Direct and Large Eddy Simulation (Erlangen-Nürnberg, Germany; 10th until 12th April 2024)
