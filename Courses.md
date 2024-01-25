@@ -1,6 +1,6 @@
 # Courses of Interest:
 
-## Courses ercoftac and hlrs:
+## Presential Courses
 
 ### ML
 - From Machine Learning to Deep Learning: A concise introduction (Stuttgart, Germany; Mar 26, 2024)
