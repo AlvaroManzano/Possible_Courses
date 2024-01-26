@@ -15,6 +15,8 @@
 - Coherent Structures in Aeroacoustics (Poitiers, France; 10th - 12th June 2024)
   - https://www.ercoftac.org/events/coherent-structures-in-aeroacoustics/
 ### DA
+- 19th international EnKF workshop (June 17 - 19, Os, Norway) (900€ + flights and some food...)
+  - https://www.data-assimilation.no/workshops/EnKF-WS-2024
 - University of Reading (UK) (Online or presential, 7th-10th May 2024)
   - https://research.reading.ac.uk/met-darc/training/training-courses/
 ### Air pollution
