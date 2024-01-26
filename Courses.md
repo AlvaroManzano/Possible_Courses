@@ -14,7 +14,9 @@
   - https://www.ercoftac.org/events/18th-ercoftac-sig15-workshop-on-refined-turbulence-modelling/
 - Coherent Structures in Aeroacoustics (Poitiers, France; 10th - 12th June 2024)
   - https://www.ercoftac.org/events/coherent-structures-in-aeroacoustics/
-
+### DA
+- University of Reading (UK) (Online or presential, 7th-10th May 2024)
+  - https://research.reading.ac.uk/met-darc/training/training-courses/
 ### Air pollution
 - Wessex Institute of Technology
   - https://www.wessex.ac.uk/courses
