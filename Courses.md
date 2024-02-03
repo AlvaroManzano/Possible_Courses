@@ -19,6 +19,8 @@
   - https://www.data-assimilation.no/workshops/EnKF-WS-2024
 - University of Reading (UK) (Online or presential, 7th-10th May 2024)
   - https://research.reading.ac.uk/met-darc/training/training-courses/
+- CWI (in the Netherlands)
+  - https://www.cwi.nl/en/education/semester-programmes/cwi-research-semester-programs/uncertainty-quantification-for-high-dimensional-problems/
 ### Air pollution
 - Wessex Institute of Technology
   - https://www.wessex.ac.uk/courses
