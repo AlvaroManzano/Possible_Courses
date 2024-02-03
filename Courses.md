@@ -31,4 +31,4 @@
 - BOOTCAMP: AI for Science Bootcamp (**Online**: Jun 25, 2024) https://www.hlrs.de/training/2024/bc-ai-nv
 ### CFD
 - BOOTCAMP: N-Ways to GPU Programming (**Online**: Apr 03, 2024) https://www.hlrs.de/training/2024/bc-gpu-nv
-- No date, SIMPLE Algorithm (uncompressible, steady state, isothermal, single phase): https://dr-aidan-wimshurst-s-school.teachable.com/p/the-simple-algorithm
+- Just recordings, SIMPLE Algorithm (uncompressible, steady state, isothermal, single phase): https://dr-aidan-wimshurst-s-school.teachable.com/p/the-simple-algorithm
