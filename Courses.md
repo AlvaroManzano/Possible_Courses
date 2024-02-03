@@ -24,7 +24,10 @@
 ### Air pollution
 - Wessex Institute of Technology
   - https://www.wessex.ac.uk/courses
-  - The 2023 Introduction to Air Pollution Modeling course is available for free: https://www.youtube.com/playlist?list=PLjkwSa84fW39meGVD6kl4GGgD1XgVRLb1) 
+  - The 2023 Introduction to Air Pollution Modeling course is available for free: https://www.youtube.com/playlist?list=PLjkwSa84fW39meGVD6kl4GGgD1XgVRLb1)
+### DL
+- Nvidea Karniadakis DL course with PINNs
+  - https://www.nvidia.com/en-us/on-demand/playlist/playList-4ed5aea1-577e-4583-8895-ab704298765e/
 ## Online:
 ### ML
 - Introduction to Computational Fluid Dynamics (**Online**: Feb 05, 2024) https://www.hlrs.de/training/2024/CFD-ZIH
