@@ -31,7 +31,7 @@
 ### ML
 - Introduction to Computational Fluid Dynamics (**Online**: Feb 05, 2024) https://www.hlrs.de/training/2024/CFD-ZIH
 - BOOTCAMP: AI for Science Bootcamp (**Online**: Jun 25, 2024) https://www.hlrs.de/training/2024/bc-ai-nv
-- PINNs 2 days course (**Online**: 25, 26 June) https://www.hlrs.de/training/2024/bc-ai-nv
+- PINNs 2 days course (**Online**: 25, 26 June, **Registration closes on May 14**) https://www.hlrs.de/training/2024/bc-ai-nv
 - Nvidea Karniadakis DL course with PINNs (recordings)
   - https://www.nvidia.com/en-us/on-demand/playlist/playList-4ed5aea1-577e-4583-8895-ab704298765e/
 ### CFD
