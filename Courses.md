@@ -27,7 +27,6 @@
   - The 2023 Introduction to Air Pollution Modeling course is available for free: https://www.youtube.com/playlist?list=PLjkwSa84fW39meGVD6kl4GGgD1XgVRLb1)
 ### DL
 
-  - 
 ## Online:
 ### ML
 - Introduction to Computational Fluid Dynamics (**Online**: Feb 05, 2024) https://www.hlrs.de/training/2024/CFD-ZIH
