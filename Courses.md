@@ -26,11 +26,10 @@
   - https://www.wessex.ac.uk/courses
   - The 2023 Introduction to Air Pollution Modeling course is available for free: https://www.youtube.com/playlist?list=PLjkwSa84fW39meGVD6kl4GGgD1XgVRLb1)
 ### DL
-
+- BOOTCAMP: AI for Science Bootcamp (**Online**: Mar 26-28, 2024,**Registration closes on March 9, 2024**) [https://www.hlrs.de/training/2024/bc-ai-nv](https://www.hlrs.de/training/2024/dl-hlrs)
 ## Online:
 ### ML
 - Introduction to Computational Fluid Dynamics (**Online**: Feb 05, 2024) https://www.hlrs.de/training/2024/CFD-ZIH
-- BOOTCAMP: AI for Science Bootcamp (**Online**: Jun 25, 2024,**Registration closes on March 9, 2024**) https://www.hlrs.de/training/2024/bc-ai-nv
 - PINNs 2 days course (**Online**: 25, 26 June, **Registration closes on May 14**) https://www.hlrs.de/training/2024/bc-ai-nv
 - Nvidea Karniadakis DL course with PINNs (recordings)
   - https://www.nvidia.com/en-us/on-demand/playlist/playList-4ed5aea1-577e-4583-8895-ab704298765e/
