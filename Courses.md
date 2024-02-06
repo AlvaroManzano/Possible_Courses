@@ -26,12 +26,15 @@
   - https://www.wessex.ac.uk/courses
   - The 2023 Introduction to Air Pollution Modeling course is available for free: https://www.youtube.com/playlist?list=PLjkwSa84fW39meGVD6kl4GGgD1XgVRLb1)
 ### DL
-- Nvidea Karniadakis DL course with PINNs
-  - https://www.nvidia.com/en-us/on-demand/playlist/playList-4ed5aea1-577e-4583-8895-ab704298765e/
+
+  - 
 ## Online:
 ### ML
 - Introduction to Computational Fluid Dynamics (**Online**: Feb 05, 2024) https://www.hlrs.de/training/2024/CFD-ZIH
 - BOOTCAMP: AI for Science Bootcamp (**Online**: Jun 25, 2024) https://www.hlrs.de/training/2024/bc-ai-nv
+- PINNs 2 days course (**Online**: 25, 26 June) https://www.hlrs.de/training/2024/bc-ai-nv
+- Nvidea Karniadakis DL course with PINNs (recordings)
+  - https://www.nvidia.com/en-us/on-demand/playlist/playList-4ed5aea1-577e-4583-8895-ab704298765e/
 ### CFD
 - BOOTCAMP: N-Ways to GPU Programming (**Online**: Apr 03, 2024) https://www.hlrs.de/training/2024/bc-gpu-nv
 - Just recordings, SIMPLE Algorithm (uncompressible, steady state, isothermal, single phase): https://dr-aidan-wimshurst-s-school.teachable.com/p/the-simple-algorithm
