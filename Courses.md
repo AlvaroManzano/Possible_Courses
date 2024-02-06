@@ -35,4 +35,4 @@
 ### CFD
 - BOOTCAMP: N-Ways to GPU Programming (**Online**: Apr 03, 2024) https://www.hlrs.de/training/2024/bc-gpu-nv
 - Just recordings, SIMPLE Algorithm (uncompressible, steady state, isothermal, single phase): https://dr-aidan-wimshurst-s-school.teachable.com/p/the-simple-algorithm
-- OpenFOAM courses of wolfdynamics (The course invoice must be paid one month before the course starts): http://www.wolfdynamics.com/tutorials.html?id=187
+- OpenFOAM courses of wolfdynamics (must be paid 1 month before the course starts): http://www.wolfdynamics.com/tutorials.html?id=187
