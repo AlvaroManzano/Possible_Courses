@@ -14,7 +14,7 @@
   - https://www.ercoftac.org/events/ercoftac-spring-festival-2024/
 
 \
-Seem too advanced:  \
+Seem too advanced:  
 
 - 18th ERCOFTAC SIG15 Workshop on Refined Turbulence Modelling (Sarajevo, MAY 2024)
   - https://www.ercoftac.org/events/18th-ercoftac-sig15-workshop-on-refined-turbulence-modelling/
