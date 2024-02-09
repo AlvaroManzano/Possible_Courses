@@ -3,7 +3,7 @@
 ## Presential Courses
 
 ### ML
-- From Machine Learning to Deep Learning: A concise introduction (Stuttgart, Germany; Mar 26, 2024)
+- From Machine Learning to Deep Learning: A Concise Introduction (Stuttgart, Germany; Mar 26, 2024)
   - https://www.hlrs.de/training/2024/dl-hlrs
 ### CFD
 - Multiphase Flows - Simulation, Experiment and Application 11-15 Nov Germany
@@ -23,7 +23,7 @@ Seem more advanced:
   - https://www.data-assimilation.no/workshops/EnKF-WS-2024
 - University of Reading (UK) (Online or presential, 7th-10th May 2024)
   - https://research.reading.ac.uk/met-darc/training/training-courses/
-- CWI (in the Netherlands and in the second half of the year)
+- CWI (in the Netherlands and the second half of the year)
   - https://www.cwi.nl/en/education/semester-programmes/cwi-research-semester-programs/uncertainty-quantification-for-high-dimensional-problems/
 ### Air pollution
 - Wessex Institute of Technology
@@ -48,4 +48,4 @@ Seem more advanced:
 - [hlrs](https://www.hlrs.de/training/english)
 - [VKI](https://www.vki.ac.be/index.php/events-ls/events/eventsbyyear/2024/-)
 - [PRACE](https://events.prace-ri.eu/category/1/)
-- 
+- [HZDR](https://www.hzdr.de/db/Cms?pNid=1296)
