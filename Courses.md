@@ -5,7 +5,11 @@
 ### ML
 - From Machine Learning to Deep Learning: A Concise Introduction (Stuttgart, Germany; Mar 26, 2024)
   - https://www.hlrs.de/training/2024/dl-hlrs
+- VKI Applied Workshop of ML for fluids in Brussels May 27-31
+  - https://www.vki.ac.be/index.php/events-ls/events/eventdetail/568/-/hands-on-machine-learning-for-fluid-dynamics-2024
 ### CFD
+- VKI Large Eddy Simulation and Related Techniques Brussels May 13 - 17
+  - https://www.vki.ac.be/index.php/events-ls/events/eventdetail/566/-/lecture-series-large-eddy-simulation-and-related-techniques
 - Multiphase Flows - Simulation, Experiment and Application 11-15 Nov Germany
   - https://www.hzdr.de/db/Cms?pOid=70003&pNid=1296
 - DLES14 - Direct and Large Eddy Simulation (Erlangen-Nürnberg, Germany; 10th until 12th April 2024)
@@ -20,7 +24,7 @@ Seem too advanced:
   - https://www.ercoftac.org/events/18th-ercoftac-sig15-workshop-on-refined-turbulence-modelling/
 - Coherent Structures in Aeroacoustics (Poitiers, France; 10th - 12th June 2024)
   - https://www.ercoftac.org/events/coherent-structures-in-aeroacoustics/
-### DA
+### Data Assimilation
 - 19th international EnKF workshop (June 17 - 19, Os, Norway) (900€ + flights and some food...)
   - https://www.data-assimilation.no/workshops/EnKF-WS-2024
 - University of Reading (UK) (Online or presential, 7th-10th May 2024)
@@ -31,8 +35,10 @@ Seem too advanced:
 - Wessex Institute of Technology
   - https://www.wessex.ac.uk/courses
   - The 2023 Introduction to Air Pollution Modeling course is available for free: https://www.youtube.com/playlist?list=PLjkwSa84fW39meGVD6kl4GGgD1XgVRLb1)
+
 ### DL
 - BOOTCAMP: AI for Science Bootcamp (**Online**: Mar 26-28, 2024, **Registration closes on March 9, 2024**) [https://www.hlrs.de/training/2024/bc-ai-nv](https://www.hlrs.de/training/2024/dl-hlrs)
+
 ## Online:
 ### ML
 - Introduction to Computational Fluid Dynamics (**Online**: Feb 05, 2024) https://www.hlrs.de/training/2024/CFD-ZIH
@@ -42,13 +48,14 @@ Seem too advanced:
 ### CFD
 - BOOTCAMP: N-Ways to GPU Programming (**Online**: Apr 03, 2024) https://www.hlrs.de/training/2024/bc-gpu-nv
 - Just recordings, SIMPLE Algorithm (uncompressible, steady state, isothermal, single phase): https://dr-aidan-wimshurst-s-school.teachable.com/p/the-simple-algorithm
-- OpenFOAM courses of wolfdynamics (must be paid 1 month before the course starts): http://www.wolfdynamics.com/tutorials.html?id=187
+- OpenFOAM courses of Wolf Dynamics: http://www.wolfdynamics.com/tutorials.html?id=187
 
 ## To check in the future:
-- [CFD-Transport](https://www.hzdr.de/db/Cms?pNid=1296)
+- [CFD-Pollution](https://www.hzdr.de/db/Cms?pNid=1296)
 - [ERCOFTAC](https://www.ercoftac.org/events/)
 - [hlrs](https://www.hlrs.de/training/english)
-- [VKI](https://www.vki.ac.be/index.php/events-ls/events/eventsbyyear/2024/-)
+- [VKI](https://www.vki.ac.be/index.php/events-ls/events/eventsbyyear/2024/-) y [VKI2](https://www.vki.ac.be/index.php/events-ls)
 - [PRACE](https://events.prace-ri.eu/category/1/)
 - [HZDR](https://www.hzdr.de/db/Cms?pNid=1296)
 - [Athens Network, in UPM and TU Delft](https://register.athensnetwork.eu/courses)
+- [ECMWF](https://events.ecmwf.int/category/1/) (CFD and DA)
