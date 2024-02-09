@@ -10,6 +10,8 @@
   - https://dles.ercoftac.org/dles/
 - ERCOFTAC Spring Festival (UC3M, Madrid; 16th - 17th May 2024)
   - https://www.ercoftac.org/events/ercoftac-spring-festival-2024/
+\
+Seem more advanced:
 - 18th ERCOFTAC SIG15 Workshop on Refined Turbulence Modelling (Sarajevo, MAY 2024)
   - https://www.ercoftac.org/events/18th-ercoftac-sig15-workshop-on-refined-turbulence-modelling/
 - Coherent Structures in Aeroacoustics (Poitiers, France; 10th - 12th June 2024)
@@ -37,3 +39,11 @@
 - BOOTCAMP: N-Ways to GPU Programming (**Online**: Apr 03, 2024) https://www.hlrs.de/training/2024/bc-gpu-nv
 - Just recordings, SIMPLE Algorithm (uncompressible, steady state, isothermal, single phase): https://dr-aidan-wimshurst-s-school.teachable.com/p/the-simple-algorithm
 - OpenFOAM courses of wolfdynamics (must be paid 1 month before the course starts): http://www.wolfdynamics.com/tutorials.html?id=187
+
+## To check in the future:
+- [CFD-Transport](https://www.hzdr.de/db/Cms?pNid=1296)
+- [ERCOFTAC](https://www.ercoftac.org/events/)
+- [hlrs](https://www.hlrs.de/training/english)
+- [VKI](https://www.vki.ac.be/index.php/events-ls/events/eventsbyyear/2024/-)
+- [PRACE](https://events.prace-ri.eu/category/1/)
+- 
