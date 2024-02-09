@@ -59,3 +59,5 @@ Seem too advanced:
 - [HZDR](https://www.hzdr.de/db/Cms?pNid=1296)
 - [Athens Network, in UPM and TU Delft](https://register.athensnetwork.eu/courses)
 - [ECMWF](https://events.ecmwf.int/category/1/) (CFD and DA)
+- [CWI (in the Netherlands and the second half of the year)](https://www.cwi.nl/en/education/semester-programmes/cwi-research-semester-programs/uncertainty-quantification-for-high-dimensional-problems/)
+
