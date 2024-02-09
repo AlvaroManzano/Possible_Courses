@@ -24,11 +24,11 @@ Seem too advanced:
   - [The 2023 Introduction to Air Pollution Modeling course is available for free](https://www.youtube.com/playlist?list=PLjkwSa84fW39meGVD6kl4GGgD1XgVRLb1)
 
 ### ML
-- [1. BOOTCAMP: AI for Science Bootcamp](https://www.hlrs.de/training/2024/bc-ai-nv) (**Online**: Mar 26-28, 2024, **Registration closes on March 9, 2024**)
-- [2. BOOTCAMP: AI for Science Bootcamp](https://www.hlrs.de/training/2024/dl-hlrs) (**Online**: Mar 26-28, 2024, **Registration closes on March 9, 2024**)
+- [From Machine Learning to Deep Learning: A concise introduction](https://www.hlrs.de/training/2024/dl-hlrs) (**Stuttgart**: Mar 26-28, 2024, **Registration closes on March 9, 2024**)
 
 ## Online:
 ### ML
+- [1. BOOTCAMP: AI for Science Bootcamp](https://www.hlrs.de/training/2024/bc-ai-nv) (**Online**: June 25-26, 2024, **Registration closes on May 14, 2024**)
 - [Introduction to Computational Fluid Dynamics (**Online**: Feb 05, 2024)](https://www.hlrs.de/training/2024/CFD-ZIH)
 - [PINNs 2 days course (**Online**: 25, 26 June, **Registration closes on May 14**)](https://www.hlrs.de/training/2024/bc-ai-nv)
 - [Nvidea Karniadakis DL course with PINNs (recordings)](https://www.nvidia.com/en-us/on-demand/playlist/playList-4ed5aea1-577e-4583-8895-ab704298765e/)
