@@ -12,9 +12,11 @@
   - https://dles.ercoftac.org/dles/
 - ERCOFTAC Spring Festival (UC3M, Madrid; 16th - 17th May 2024)
   - https://www.ercoftac.org/events/ercoftac-spring-festival-2024/
+
 \
 Seem too advanced:  \
 \
+
 - 18th ERCOFTAC SIG15 Workshop on Refined Turbulence Modelling (Sarajevo, MAY 2024)
   - https://www.ercoftac.org/events/18th-ercoftac-sig15-workshop-on-refined-turbulence-modelling/
 - Coherent Structures in Aeroacoustics (Poitiers, France; 10th - 12th June 2024)
