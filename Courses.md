@@ -24,7 +24,7 @@ Seem too advanced:
   - [The 2023 Introduction to Air Pollution Modeling course is available for free](https://www.youtube.com/playlist?list=PLjkwSa84fW39meGVD6kl4GGgD1XgVRLb1)
 
 ### ML
-- [BOOTCAMP: AI for Science Bootcamp (**Online**: Mar 26-28, 2024, **Registration closes on March 9, 2024**)](https://www.hlrs.de/training/2024/bc-ai-nv](https://www.hlrs.de/training/2024/dl-hlrs)
+- [BOOTCAMP: AI for Science Bootcamp](https://www.hlrs.de/training/2024/bc-ai-nv](https://www.hlrs.de/training/2024/dl-hlrs) (**Online**: Mar 26-28, 2024, **Registration closes on March 9, 2024**)
 
 ## Online:
 ### ML
