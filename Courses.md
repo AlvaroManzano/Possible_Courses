@@ -36,7 +36,7 @@ Seem too advanced:
   - https://www.wessex.ac.uk/courses
   - The 2023 Introduction to Air Pollution Modeling course is available for free: https://www.youtube.com/playlist?list=PLjkwSa84fW39meGVD6kl4GGgD1XgVRLb1)
 
-### DL
+### ML
 - BOOTCAMP: AI for Science Bootcamp (**Online**: Mar 26-28, 2024, **Registration closes on March 9, 2024**) [https://www.hlrs.de/training/2024/bc-ai-nv](https://www.hlrs.de/training/2024/dl-hlrs)
 
 ## Online:
@@ -60,4 +60,4 @@ Seem too advanced:
 - [Athens Network, in UPM and TU Delft](https://register.athensnetwork.eu/courses)
 - [ECMWF](https://events.ecmwf.int/category/1/) (CFD and DA)
 - [CWI (in the Netherlands and the second half of the year)](https://www.cwi.nl/en/education/semester-programmes/cwi-research-semester-programs/uncertainty-quantification-for-high-dimensional-problems/)
-
+- [Training Centres in Europe, CFD-HPC-ML](https://prace-ri.eu/training-support/training/)
