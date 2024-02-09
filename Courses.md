@@ -54,7 +54,7 @@ Seem too advanced:
 - [CFD-Pollution](https://www.hzdr.de/db/Cms?pNid=1296)
 - [ERCOFTAC](https://www.ercoftac.org/events/)
 - [hlrs](https://www.hlrs.de/training/english)
-- [VKI](https://www.vki.ac.be/index.php/events-ls/events/eventsbyyear/2024/-) y [VKI2](https://www.vki.ac.be/index.php/events-ls)
+- [VKI](https://www.vki.ac.be/index.php/events-ls/events/eventsbyyear/2024/-) and [VKI2](https://www.vki.ac.be/index.php/events-ls)
 - [PRACE](https://events.prace-ri.eu/category/1/)
 - [HZDR](https://www.hzdr.de/db/Cms?pNid=1296)
 - [Athens Network, in UPM and TU Delft](https://register.athensnetwork.eu/courses)
