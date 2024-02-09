@@ -6,6 +6,8 @@
 - From Machine Learning to Deep Learning: A concise introduction (Stuttgart, Germany; Mar 26, 2024)
   - https://www.hlrs.de/training/2024/dl-hlrs
 ### CFD
+- Multiphase Flows - Simulation, Experiment and Application 11-15 Nov Germany
+  -https://www.hzdr.de/db/Cms?pOid=70003&pNid=1296
 - DLES14 - Direct and Large Eddy Simulation (Erlangen-Nürnberg, Germany; 10th until 12th April 2024)
   - https://dles.ercoftac.org/dles/
 - ERCOFTAC Spring Festival (UC3M, Madrid; 16th - 17th May 2024)
