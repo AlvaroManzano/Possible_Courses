@@ -9,12 +9,13 @@
 - [VKI Large Eddy Simulation and Related Techniques Brussels May 13 - 17](https://www.vki.ac.be/index.php/events-ls/events/eventdetail/566/-/lecture-series-large-eddy-simulation-and-related-techniques)
 - [Multiphase Flows - Simulation, Experiment and Application 11-15 Nov Germany](https://www.hzdr.de/db/Cms?pOid=70003&pNid=1296)
 - [ERCOFTAC Spring Festival (UC3M, Madrid; 16th - 17th May 2024)](https://www.ercoftac.org/events/ercoftac-spring-festival-2024/)
+- [Coherent Structures in Aeroacoustics (Poitiers, France; 10th - 12th June 2024)](https://www.ercoftac.org/events/coherent-structures-in-aeroacoustics/)
 
 \
 Seem too advanced:  
 - [DLES14 - Direct and Large Eddy Simulation (Erlangen-Nürnberg, Germany; 10th until 12th April 2024)](https://dles.ercoftac.org/dles/)
 - [18th ERCOFTAC SIG15 Workshop on Refined Turbulence Modelling (Sarajevo, MAY 2024)](https://www.ercoftac.org/events/18th-ercoftac-sig15-workshop-on-refined-turbulence-modelling/)
-- [Coherent Structures in Aeroacoustics (Poitiers, France; 10th - 12th June 2024)](https://www.ercoftac.org/events/coherent-structures-in-aeroacoustics/)
+
 ### Data Assimilation
 - [19th international EnKF workshop (June 17 - 19, Os, Norway) (900€ + flights and some food...)](https://www.data-assimilation.no/workshops/EnKF-WS-2024)
 - [University of Reading (UK) (Online or presential, 7th-10th May 2024)](https://research.reading.ac.uk/met-darc/training/training-courses/)
