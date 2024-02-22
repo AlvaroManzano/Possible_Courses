@@ -24,9 +24,6 @@ Seem too advanced:
 - [Wessex Institute of Technology](https://www.wessex.ac.uk/courses)
   - [The 2023 Introduction to Air Pollution Modeling course is available for free](https://www.youtube.com/playlist?list=PLjkwSa84fW39meGVD6kl4GGgD1XgVRLb1)
 
-### ML
-- [From Machine Learning to Deep Learning: A concise introduction](https://www.hlrs.de/training/2024/dl-hlrs) (**Stuttgart**: Mar 26-28, 2024, **Registration closes on March 9, 2024**)
-
 ### Programming
 - [Summer school sobre HPC](https://ssl.eventilla.com/summerschool2024)
 
