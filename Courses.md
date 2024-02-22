@@ -26,6 +26,11 @@ Seem too advanced:
 ### ML
 - [From Machine Learning to Deep Learning: A concise introduction](https://www.hlrs.de/training/2024/dl-hlrs) (**Stuttgart**: Mar 26-28, 2024, **Registration closes on March 9, 2024**)
 
+### Programming
+- [Summer school sobre HPC](https://ssl.eventilla.com/summerschool2024)
+
+
+
 ## Online:
 ### ML
 - [1. BOOTCAMP: AI for Science Bootcamp](https://www.hlrs.de/training/2024/bc-ai-nv) (**Online**: June 25-26, 2024, **Registration closes on May 14, 2024**)
@@ -37,6 +42,31 @@ Seem too advanced:
 - [Just recordings, SIMPLE Algorithm (uncompressible, steady state, isothermal, single phase)](https://dr-aidan-wimshurst-s-school.teachable.com/p/the-simple-algorithm)
 - [OpenFOAM courses of Wolf Dynamics](http://www.wolfdynamics.com/tutorials.html?id=187)
 
+### Programming
+
+- [Introduction to Unreal Engine for Science (ONLINE course)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=562)
+- [Introduction to Bayesian Statistical Learning (ONLINE course)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=566)
+- [Introduction to ANSYS Fluent on LRZ HPC Systems (Online)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=516)
+
+- [NVIDEA Courses (Paid)](https://www.nvidia.com/gtc/training/?deeplink=gtc-dli-tabs--2)
+    - [Fundamentals of Deep Learning [DLIW61557]](https://www.nvidia.com/gtc/session-catalog/?tab.allsessions=1700692987788001F1cG&search.sessiontype=1701905400491001STQ1&search=DLIW61557#/session/1694112676966001AIrI)
+    - [Fundamentals of Accelerated Computing with CUDA Python [DLIW61560]](https://www.nvidia.com/gtc/session-catalog/?tab.allsessions=1700692987788001F1cG&search.sessiontype=1701905400491001STQ1&search=DLIW61560#/session/1694112677143001Ah9U)
+    - [Model Parallelism: Building and Deploying Large Neural Networks [DLIW61566]](https://www.nvidia.com/gtc/session-catalog/?tab.allsessions=1700692987788001F1cG&search.sessiontype=1701905400491001STQ1&search=DLIW61566#/session/1694112677518001Azm0)
+    - [Applications of AI for Anomaly Detection [DLIW61565]](https://www.nvidia.com/gtc/session-catalog/?tab.allsessions=1700692987788001F1cG&search.sessiontype=1701905400491001STQ1&search=DLIW61565#/session/1694112677451001AOTu)
+
+- [Modern C++ Software Design (Intermediate)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=586)
+
+- [Modern C++ Software Design (Advanced) (HYBRID course)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=557)
+
+- [Simulation - Grundlagen & CFD (ONLINE) (todavía no sé si es en alemán o inglés!)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=541)
+
+- [Introduction to Explainable Deep Learning on Supercomputers (ONLINE course)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=573)
+
+- [Linux](https://admin.kuleuven.be/icts/opleidingen/opleidingsaanbod/linux-tools-online)
+
+- [C++ for scientific computing](https://admin.kuleuven.be/icts/opleidingen/opleidingsaanbod/c-for-scientific-computing)
+
+- [Cursos abiertos en Github con código (hay de ML) (Sin grabaciones)](https://edcarp.github.io/Ed-DaSH/workshops.html)
 ## To check in the future:
 - [CFD-Pollution](https://www.hzdr.de/db/Cms?pNid=1296)
 - [ERCOFTAC](https://www.ercoftac.org/events/)
