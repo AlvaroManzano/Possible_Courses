@@ -41,12 +41,13 @@ Seem too advanced:
 - [BOOTCAMP: N-Ways to GPU Programming (**Online**: Apr 03, 2024)](https://www.hlrs.de/training/2024/bc-gpu-nv)
 - [Just recordings, SIMPLE Algorithm (uncompressible, steady state, isothermal, single phase)](https://dr-aidan-wimshurst-s-school.teachable.com/p/the-simple-algorithm)
 - [OpenFOAM courses of Wolf Dynamics](http://www.wolfdynamics.com/tutorials.html?id=187)
-
+- [Introduction to ANSYS Fluent on LRZ HPC Systems](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=516)
+- 
 ### Programming
 
-- [Introduction to Unreal Engine for Science (ONLINE course)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=562)
-- [Introduction to Bayesian Statistical Learning (ONLINE course)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=566)
-- [Introduction to ANSYS Fluent on LRZ HPC Systems (Online)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=516)
+- [Introduction to Unreal Engine for Science ](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=562)
+- [Introduction to Bayesian Statistical Learning](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=566)
+
 
 - [NVIDEA Courses (Paid)](https://www.nvidia.com/gtc/training/?deeplink=gtc-dli-tabs--2)
     - [Fundamentals of Deep Learning [DLIW61557]](https://www.nvidia.com/gtc/session-catalog/?tab.allsessions=1700692987788001F1cG&search.sessiontype=1701905400491001STQ1&search=DLIW61557#/session/1694112676966001AIrI)
@@ -54,17 +55,17 @@ Seem too advanced:
     - [Model Parallelism: Building and Deploying Large Neural Networks [DLIW61566]](https://www.nvidia.com/gtc/session-catalog/?tab.allsessions=1700692987788001F1cG&search.sessiontype=1701905400491001STQ1&search=DLIW61566#/session/1694112677518001Azm0)
     - [Applications of AI for Anomaly Detection [DLIW61565]](https://www.nvidia.com/gtc/session-catalog/?tab.allsessions=1700692987788001F1cG&search.sessiontype=1701905400491001STQ1&search=DLIW61565#/session/1694112677451001AOTu)
 
+- [C++ for scientific computing](https://admin.kuleuven.be/icts/opleidingen/opleidingsaanbod/c-for-scientific-computing)
 - [Modern C++ Software Design (Intermediate)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=586)
-
 - [Modern C++ Software Design (Advanced) (HYBRID course)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=557)
 
-- [Simulation - Grundlagen & CFD (ONLINE) (todavía no sé si es en alemán o inglés!)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=541)
+- [Simulation - Grundlagen & CFD (I don't know what will be the language)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=541)
 
-- [Introduction to Explainable Deep Learning on Supercomputers (ONLINE course)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=573)
+- [Introduction to Explainable Deep Learning on Supercomputers](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=573)
 
 - [Linux](https://admin.kuleuven.be/icts/opleidingen/opleidingsaanbod/linux-tools-online)
 
-- [C++ for scientific computing](https://admin.kuleuven.be/icts/opleidingen/opleidingsaanbod/c-for-scientific-computing)
+
 
 - [Open Courses in Github with code (there is 1/2 of ML) (No recordings)](https://edcarp.github.io/Ed-DaSH/workshops.html)
 ## To check in the future:
