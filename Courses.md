@@ -45,8 +45,8 @@ Seem too advanced:
 
 ### Programming
 
-- [Introduction to Unreal Engine for Science ](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=562)
-- [Introduction to Bayesian Statistical Learning](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=566)
+- [Introduction to Unreal Engine for Science (1, 8 and 15 March, 10:00-15:00h)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=562)
+- [Introduction to Bayesian Statistical Learning (18-22 March, 9-13h)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=566)
 
 
 - [NVIDEA Courses (Paid)](https://www.nvidia.com/gtc/training/?deeplink=gtc-dli-tabs--2)
@@ -55,15 +55,15 @@ Seem too advanced:
     - [Model Parallelism: Building and Deploying Large Neural Networks [DLIW61566]](https://www.nvidia.com/gtc/session-catalog/?tab.allsessions=1700692987788001F1cG&search.sessiontype=1701905400491001STQ1&search=DLIW61566#/session/1694112677518001Azm0)
     - [Applications of AI for Anomaly Detection [DLIW61565]](https://www.nvidia.com/gtc/session-catalog/?tab.allsessions=1700692987788001F1cG&search.sessiontype=1701905400491001STQ1&search=DLIW61565#/session/1694112677451001AOTu)
 
-- [C++ for scientific computing](https://admin.kuleuven.be/icts/opleidingen/opleidingsaanbod/c-for-scientific-computing)
-- [Modern C++ Software Design (Intermediate)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=586)
+- [C++ for scientific computing (21 Feb, 1, 6, 8 March, 9-13h)](https://admin.kuleuven.be/icts/opleidingen/opleidingsaanbod/c-for-scientific-computing)
+- [Modern C++ Software Design (Intermediate) (9-12 July, 8:30-16:30h)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=586)
 - [Modern C++ Software Design (Advanced) (HYBRID course)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=557)
 
-- [Simulation - Grundlagen & CFD (I don't know what will be the language)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=541)
+- [Simulation - Grundlagen & CFD (I don't know what will be the language) (10-19 June)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=541)
 
-- [Introduction to Explainable Deep Learning on Supercomputers](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=573)
+- [Introduction to Explainable Deep Learning on Supercomputers (5-7 JUne, 9-13h)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=573)
 
-- [Linux](https://admin.kuleuven.be/icts/opleidingen/opleidingsaanbod/linux-tools-online)
+- [Linux (11 March, 9-13h)](https://admin.kuleuven.be/icts/opleidingen/opleidingsaanbod/linux-tools-online)
 
 
 
