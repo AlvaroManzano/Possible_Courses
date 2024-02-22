@@ -42,7 +42,7 @@ Seem too advanced:
 - [Just recordings, SIMPLE Algorithm (uncompressible, steady state, isothermal, single phase)](https://dr-aidan-wimshurst-s-school.teachable.com/p/the-simple-algorithm)
 - [OpenFOAM courses of Wolf Dynamics](http://www.wolfdynamics.com/tutorials.html?id=187)
 - [Introduction to ANSYS Fluent on LRZ HPC Systems](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=516)
-- 
+
 ### Programming
 
 - [Introduction to Unreal Engine for Science ](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=562)
