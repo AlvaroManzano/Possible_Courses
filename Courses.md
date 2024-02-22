@@ -61,7 +61,7 @@ Seem too advanced:
 
 - [Simulation - Grundlagen & CFD (I don't know what will be the language) (10-19 June)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=541)
 
-- [Introduction to Explainable Deep Learning on Supercomputers (5-7 JUne, 9-13h)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=573)
+- [Introduction to Explainable Deep Learning on Supercomputers (5-7 June, 9-13h)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=573)
 
 - [Linux (11 March, 9-13h)](https://admin.kuleuven.be/icts/opleidingen/opleidingsaanbod/linux-tools-online)
 
