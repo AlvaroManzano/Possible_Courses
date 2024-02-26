@@ -64,7 +64,7 @@ Seem too advanced:
 - [Linux (11 March, 9-13h)](https://admin.kuleuven.be/icts/opleidingen/opleidingsaanbod/linux-tools-online)
 
 
-
+- [Slides of courses of fz-juelich](https://www.fz-juelich.de/en/ias/jsc/education/training-courses/training-materials)
 - [Open Courses in Github with code (there is 1/2 of ML) (No recordings)](https://edcarp.github.io/Ed-DaSH/workshops.html)
 ## To check in the future:
 - [CFD-Pollution](https://www.hzdr.de/db/Cms?pNid=1296)
