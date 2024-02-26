@@ -10,7 +10,7 @@
 
 ### Programming
 - [Introduction to Unreal Engine for Science (1, 8 and 15 March, 10:00-15:00h)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=562)
-- [C++ for scientific computing (21 Feb, 1, 6, 8 March, 9-13h)](https://admin.kuleuven.be/icts/opleidingen/opleidingsaanbod/c-for-scientific-computing)
+- [C++ for scientific computing (28 Feb, 1, 6, 8 March, 9-13h)](https://admin.kuleuven.be/icts/opleidingen/opleidingsaanbod/c-for-scientific-computing)
 - [Linux (11 March, 9-13h)](https://admin.kuleuven.be/icts/opleidingen/opleidingsaanbod/linux-tools-online)
 
 ### NVIDIA Courses
