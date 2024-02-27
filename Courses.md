@@ -66,7 +66,7 @@ Seem too advanced:
 
 On demand:
 
-- [Slides of courses of fz-juelich](https://www.fz-juelich.de/en/ias/jsc/education/training-courses/training-materials)
+- [Slides of courses of fz-juelich (No recordings)](https://www.fz-juelich.de/en/ias/jsc/education/training-courses/training-materials)
 - [Open Courses in Github with code (there is 1/2 of ML) (No recordings)](https://edcarp.github.io/Ed-DaSH/workshops.html)
 ## To check in the future:
 - [Fz-Juelich](https://www.fz-juelich.de/en/ias/jsc/news/events/training-courses)
