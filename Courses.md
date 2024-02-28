@@ -25,6 +25,7 @@ Seem too advanced:
   - [The 2023 Introduction to Air Pollution Modeling course is available for free](https://www.youtube.com/playlist?list=PLjkwSa84fW39meGVD6kl4GGgD1XgVRLb1)
 
 ### Programming
+- [Cuda Programming, 8-9th April TU Delft](https://www.tudelft.nl/evenementen/2024/dcse/courses/programming-on-the-gpu-with-cuda)
 - [Summer school sobre HPC](https://ssl.eventilla.com/summerschool2024)
 
 
@@ -43,7 +44,6 @@ Seem too advanced:
 - [Introduction to ANSYS Fluent on LRZ HPC Systems](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=516)
 
 ### Programming
-
 - [Introduction to Unreal Engine for Science (1, 8 and 15 March, 10:00-15:00h)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=562)
 - [Introduction to Bayesian Statistical Learning (18-22 March, 9-13h)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=566)
 
