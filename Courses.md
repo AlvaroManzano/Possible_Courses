@@ -26,9 +26,8 @@ Seem too advanced:
 
 ### Programming
 - [Cuda Programming, 8-9th April TU Delft](https://www.tudelft.nl/evenementen/2024/dcse/courses/programming-on-the-gpu-with-cuda)
-- [Summer school sobre HPC](https://ssl.eventilla.com/summerschool2024)
 - [Workshop on Computational and Mathematical Methods in Data Science 2024, Delft University of Technology, April 25-26, 2024](https://searhein.github.io/gamm-cominds-2024/)
-
+- [Summer school about HPC](https://ssl.eventilla.com/summerschool2024)
 
 ## Online:
 ### ML
