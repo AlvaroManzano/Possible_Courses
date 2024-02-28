@@ -27,7 +27,7 @@ Seem too advanced:
 ### Programming
 - [Cuda Programming, 8-9th April TU Delft](https://www.tudelft.nl/evenementen/2024/dcse/courses/programming-on-the-gpu-with-cuda)
 - [Summer school sobre HPC](https://ssl.eventilla.com/summerschool2024)
-
+- [Workshop on Computational and Mathematical Methods in Data Science 2024, Delft University of Technology, April 25-26, 2024](https://searhein.github.io/gamm-cominds-2024/)
 
 
 ## Online:
@@ -69,6 +69,8 @@ On demand:
 - [Slides of courses of fz-juelich (No recordings)](https://www.fz-juelich.de/en/ias/jsc/education/training-courses/training-materials)
 - [Open Courses in Github with code (there is 1/2 of ML) (No recordings)](https://edcarp.github.io/Ed-DaSH/workshops.html)
 ## To check in the future:
+- [Dutch-Flemish Scientific Computing Society](https://wsc.project.cwi.nl/events)
+- [JM burgerscentrum](https://www.tudelft.nl/jmburgerscentrum/courses/registration)
 - [Fz-Juelich](https://www.fz-juelich.de/en/ias/jsc/news/events/training-courses)
 - [CFD-Pollution](https://www.hzdr.de/db/Cms?pNid=1296)
 - [ERCOFTAC](https://www.ercoftac.org/events/)
