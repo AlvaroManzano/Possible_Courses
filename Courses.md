@@ -1,5 +1,8 @@
 # Courses of Interest
-
+&#x1F534; in March
+&#x1F535; in April
+&#x1F536; in May
+&#x1F537; in June
 ## Presential Courses
 
 ### ML
