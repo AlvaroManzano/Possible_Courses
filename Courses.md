@@ -30,7 +30,7 @@ Seem too advanced:
 - [Summer school about HPC](https://ssl.eventilla.com/summerschool2024)
 
 **Juelich**
-- [Introduction to parallel programming with MPI and OpenMP for beginners (18th-20th March 09:00h-17:00h)](https://www.fz-juelich.de/en/ias/jsc/news/events/training-courses/2024/mpi-intro)
+- [Introduction to parallel programming with MPI and OpenMP for beginners (18th-20th March 09:00h-17:00h)](https://www.fz-juelich.de/en/ias/jsc/news/events/training-courses/2024/mpi-intro) &#x1F534;
 - [GPU Programming Part 1: Foundations (training course, on-site) (Apr 8-10th, 9-16:30h)](https://www.fz-juelich.de/en/ias/jsc/news/events/training-courses/2024/gpu-cuda)
 - [Programming in C++ (May 13-17th, 9-16:30h)](https://www.fz-juelich.de/en/ias/jsc/news/events/training-courses/2024/cplusplus)
 
@@ -46,17 +46,17 @@ Seem too advanced:
 - [Introduction to ANSYS Fluent on LRZ HPC Systems](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=516)
 
 ### Programming
-- [Introduction to Unreal Engine for Science (1, 8 and 15 March, 10:00-15:00h)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=562)
-- [Introduction to Bayesian Statistical Learning (18-22 March, 9-13h)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=566)
+- [Introduction to Unreal Engine for Science (1, 8 and 15 March, 10:00-15:00h)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=562) &#x1F534;
+- [Introduction to Bayesian Statistical Learning (18-22 March, 9-13h)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=566) &#x1F534;
 
 
 - [NVIDEA Courses (Paid)](https://www.nvidia.com/gtc/training/?deeplink=gtc-dli-tabs--2)
-    - [Fundamentals of Deep Learning [DLIW61557] (Mar 19, 9:00 AM - 5:00 PM CET))](https://www.nvidia.com/gtc/session-catalog/?tab.allsessions=1700692987788001F1cG&search.sessiontype=1701905400491001STQ1&search=DLIW61557#/session/1694112676966001AIrI)
+    - [Fundamentals of Deep Learning [DLIW61557] (Mar 19, 9:00 AM - 5:00 PM CET))](https://www.nvidia.com/gtc/session-catalog/? tab.allsessions=1700692987788001F1cG&search.sessiontype=1701905400491001STQ1&search=DLIW61557#/session/1694112676966001AIrI) &#x1F534;
     - [Fundamentals of Accelerated Computing with CUDA Python [DLIW61560]](https://www.nvidia.com/gtc/session-catalog/?tab.allsessions=1700692987788001F1cG&search.sessiontype=1701905400491001STQ1&search=DLIW61560#/session/1694112677143001Ah9U)
     - [Model Parallelism: Building and Deploying Large Neural Networks [DLIW61566]](https://www.nvidia.com/gtc/session-catalog/?tab.allsessions=1700692987788001F1cG&search.sessiontype=1701905400491001STQ1&search=DLIW61566#/session/1694112677518001Azm0)
-    - [Applications of AI for Anomaly Detection [DLIW61565] (Mar 21, 9:00 AM - 5:00 PM CET)](https://www.nvidia.com/gtc/session-catalog/?tab.allsessions=1700692987788001F1cG&search.sessiontype=1701905400491001STQ1&search=DLIW61565#/session/1694112677451001AOTu)
+    - [Applications of AI for Anomaly Detection [DLIW61565] (Mar 21, 9:00 AM - 5:00 PM CET)](https://www.nvidia.com/gtc/session-catalog/?tab.allsessions=1700692987788001F1cG&search.sessiontype=1701905400491001STQ1&search=DLIW61565#/session/1694112677451001AOTu) &#x1F534;
 
-- [C++ for scientific computing (21 Feb, 1, 6, 8 March, 9-13h)](https://admin.kuleuven.be/icts/opleidingen/opleidingsaanbod/c-for-scientific-computing)
+- [C++ for scientific computing (21 Feb, 1, 6, 8 March, 9-13h)](https://admin.kuleuven.be/icts/opleidingen/opleidingsaanbod/c-for-scientific-computing) &#x1F534;
 - [Modern C++ Software Design (Intermediate) (9-12 July, 8:30-16:30h)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=586)
 - [Modern C++ Software Design (Advanced) (HYBRID course)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=557)
 
@@ -64,7 +64,7 @@ Seem too advanced:
 
 - [Introduction to Explainable Deep Learning on Supercomputers (5-7 June, 9-13h)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=573)
 
-- [Linux (11 March, 9-13h)](https://admin.kuleuven.be/icts/opleidingen/opleidingsaanbod/linux-tools-online)
+- [Linux (11 March, 9-13h)](https://admin.kuleuven.be/icts/opleidingen/opleidingsaanbod/linux-tools-online) &#x1F534;
 
 ## On demand
 - [Nvidea Karniadakis DL course with PINNs (recordings)](https://www.nvidia.com/en-us/on-demand/playlist/playList-4ed5aea1-577e-4583-8895-ab704298765e/)
