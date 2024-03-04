@@ -11,7 +11,7 @@
 
 ### ML
 - [From Machine Learning to Deep Learning: A Concise Introduction (Stuttgart, Germany; Mar 26, 2024)](https://www.hlrs.de/training/2024/dl-hlrs) &#x1F534;
-- [VKI Applied Workshop of ML for fluids in Brussels May 27-31 (Coincides with the MODELAIR courses!)](https://www.vki.ac.be/index.php/events-ls/events/eventdetail/568/-/hands-on-machine-learning-for-fluid-dynamics-2024) &#x1F536
+- [VKI Applied Workshop of ML for fluids in Brussels May 27-31 (Coincides with the MODELAIR courses!)](https://www.vki.ac.be/index.php/events-ls/events/eventdetail/568/-/hands-on-machine-learning-for-fluid-dynamics-2024) &#x1F536;
 ### CFD
 - [VKI Large Eddy Simulation and Related Techniques Brussels May 13 - 17](https://www.vki.ac.be/index.php/events-ls/events/eventdetail/566/-/lecture-series-large-eddy-simulation-and-related-techniques) &#x1F536;
 - [Multiphase Flows - Simulation, Experiment and Application 11-15 Nov Germany](https://www.hzdr.de/db/Cms?pOid=70003&pNid=1296)
