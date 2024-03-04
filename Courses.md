@@ -18,11 +18,6 @@
 - [ERCOFTAC Spring Festival (UC3M, Madrid; 16th - 17th May 2024)](https://www.ercoftac.org/events/ercoftac-spring-festival-2024/) &#x1F536;
 - [Coherent Structures in Aeroacoustics (Poitiers, France; 10th - 12th June 2024)](https://www.ercoftac.org/events/coherent-structures-in-aeroacoustics/) &#x1F4D7;
 
-\
-Seem too advanced:  
-- [DLES14 - Direct and Large Eddy Simulation (Erlangen-Nürnberg, Germany; 10th until 12th April 2024)](https://dles.ercoftac.org/dles/) &#x1F535;
-- [18th ERCOFTAC SIG15 Workshop on Refined Turbulence Modelling (Sarajevo, MAY 2024)](https://www.ercoftac.org/events/18th-ercoftac-sig15-workshop-on-refined-turbulence-modelling/) &#x1F536;
-
 ### Data Assimilation
 - [19th international EnKF workshop (June 17 - 19, Os, Norway) (900€ + flights and some food...)](https://www.data-assimilation.no/workshops/EnKF-WS-2024) &#x1F4D7;
 - [University of Reading (UK) (Online or presential, 7th-10th May 2024)](https://research.reading.ac.uk/met-darc/training/training-courses/) &#x1F536;
@@ -41,6 +36,8 @@ Seem too advanced:
 - [GPU Programming Part 1: Foundations (training course, on-site) (Apr 8-10th, 9-16:30h)](https://www.fz-juelich.de/en/ias/jsc/news/events/training-courses/2024/gpu-cuda) &#x1F535;
 - [Programming in C++ (May 13-17th, 9-16:30h)](https://www.fz-juelich.de/en/ias/jsc/news/events/training-courses/2024/cplusplus) &#x1F536;
 
+
+  
 ## Online:
 ### ML
 - [1. BOOTCAMP: AI for Science Bootcamp](https://www.hlrs.de/training/2024/bc-ai-nv) (**Online**: June 25-26, 2024, **Registration closes on May 14, 2024**) &#x1F4D7;
@@ -48,35 +45,35 @@ Seem too advanced:
 - [Explainable AI (XAI) (Requires minimal knowledge of Tensorflow and PyTorch), 5-7th June, 9-13h](https://www.fz-juelich.de/en/ias/jsc/news/events/training-courses/2024/explainable-dl) &#x1F4D7;
 ### CFD
 - [BOOTCAMP: N-Ways to GPU Programming (**Online**: Apr 03, 2024)](https://www.hlrs.de/training/2024/bc-gpu-nv) &#x1F535;
-- [Just recordings, SIMPLE Algorithm (uncompressible, steady state, isothermal, single phase)](https://dr-aidan-wimshurst-s-school.teachable.com/p/the-simple-algorithm)
 - [OpenFOAM courses of Wolf Dynamics](http://www.wolfdynamics.com/tutorials.html?id=187)
 - [Introduction to ANSYS Fluent on LRZ HPC Systems](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=516)
 
 ### Programming
 - [Introduction to Unreal Engine for Science (1, 8 and 15 March, 10:00-15:00h)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=562) &#x1F534;
 - [Introduction to Bayesian Statistical Learning (18-22 March, 9-13h)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=566) &#x1F534;
-
-
+- [Linux (11 March, 9-13h)](https://admin.kuleuven.be/icts/opleidingen/opleidingsaanbod/linux-tools-online) &#x1F534;
+- [Simulation - Grundlagen & CFD (I don't know what will be the language) (10-19 June)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=541) &#x1F4D7;
+- [Introduction to Explainable Deep Learning on Supercomputers (5-7 June, 9-13h)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=573) &#x1F4D7;
 - [NVIDEA Courses (Paid)](https://www.nvidia.com/gtc/training/?deeplink=gtc-dli-tabs--2)
     - [Fundamentals of Deep Learning [DLIW61557] (Mar 19, 9:00 AM - 5:00 PM CET))](https://www.nvidia.com/gtc/session-catalog/?tab.allsessions=1700692987788001F1cG&search.sessiontype=1701905400491001STQ1&search=DLIW61557#/session/1694112676966001AIrI) &#x1F534;
     - [Fundamentals of Accelerated Computing with CUDA Python [DLIW61560]](https://www.nvidia.com/gtc/session-catalog/?tab.allsessions=1700692987788001F1cG&search.sessiontype=1701905400491001STQ1&search=DLIW61560#/session/1694112677143001Ah9U)
     - [Model Parallelism: Building and Deploying Large Neural Networks [DLIW61566]](https://www.nvidia.com/gtc/session-catalog/?tab.allsessions=1700692987788001F1cG&search.sessiontype=1701905400491001STQ1&search=DLIW61566#/session/1694112677518001Azm0)
     - [Applications of AI for Anomaly Detection [DLIW61565] (Mar 21, 9:00 AM - 5:00 PM CET)](https://www.nvidia.com/gtc/session-catalog/?tab.allsessions=1700692987788001F1cG&search.sessiontype=1701905400491001STQ1&search=DLIW61565#/session/1694112677451001AOTu) &#x1F534;
 
-- [C++ for scientific computing (21 Feb, 1, 6, 8 March, 9-13h)](https://admin.kuleuven.be/icts/opleidingen/opleidingsaanbod/c-for-scientific-computing) &#x1F534;
-- [Modern C++ Software Design (Intermediate) (9-12 July, 8:30-16:30h)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=586)
-- [Modern C++ Software Design (Advanced) (HYBRID course)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=557)
-
-- [Simulation - Grundlagen & CFD (I don't know what will be the language) (10-19 June)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=541) &#x1F4D7;
-
-- [Introduction to Explainable Deep Learning on Supercomputers (5-7 June, 9-13h)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=573) &#x1F4D7;
-
-- [Linux (11 March, 9-13h)](https://admin.kuleuven.be/icts/opleidingen/opleidingsaanbod/linux-tools-online) &#x1F534;
 
 ## On demand
 - [Nvidea Karniadakis DL course with PINNs (recordings)](https://www.nvidia.com/en-us/on-demand/playlist/playList-4ed5aea1-577e-4583-8895-ab704298765e/)
 - [Slides of courses of fz-juelich (No recordings)](https://www.fz-juelich.de/en/ias/jsc/education/training-courses/training-materials)
 - [Open Courses in Github with code (there is 1/2 of ML) (No recordings)](https://edcarp.github.io/Ed-DaSH/workshops.html)
+- [PAID Course on CFD SIMPLE Algorithm (uncompressible, steady state, isothermal, single phase)](https://dr-aidan-wimshurst-s-school.teachable.com/p/the-simple-algorithm)
+
+## Too advanced
+- [DLES14 - Direct and Large Eddy Simulation (Erlangen-Nürnberg, Germany; 10th until 12th April 2024)](https://dles.ercoftac.org/dles/) &#x1F535;
+- [18th ERCOFTAC SIG15 Workshop on Refined Turbulence Modelling (Sarajevo, MAY 2024)](https://www.ercoftac.org/events/18th-ercoftac-sig15-workshop-on-refined-turbulence-modelling/) &#x1F536;
+- [C++ for scientific computing (21 Feb, 1, 6, 8 March, 9-13h)](https://admin.kuleuven.be/icts/opleidingen/opleidingsaanbod/c-for-scientific-computing) &#x1F534;
+- [Modern C++ Software Design (Intermediate) (9-12 July, 8:30-16:30h)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=586)
+- [Modern C++ Software Design (Advanced) (HYBRID course)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=557)
+
 
 ## To check in the future:
 - [Dutch-Flemish Scientific Computing Society](https://wsc.project.cwi.nl/events)
