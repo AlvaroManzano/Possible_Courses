@@ -10,21 +10,21 @@
 
 ### ML
 - [From Machine Learning to Deep Learning: A Concise Introduction (Stuttgart, Germany; Mar 26, 2024)](https://www.hlrs.de/training/2024/dl-hlrs) &#x1F534;
-- [VKI Applied Workshop of ML for fluids in Brussels May 27-31 (Coincides with the MODELAIR courses!)](https://www.vki.ac.be/index.php/events-ls/events/eventdetail/568/-/hands-on-machine-learning-for-fluid-dynamics-2024)
+- [VKI Applied Workshop of ML for fluids in Brussels May 27-31 (Coincides with the MODELAIR courses!)](https://www.vki.ac.be/index.php/events-ls/events/eventdetail/568/-/hands-on-machine-learning-for-fluid-dynamics-2024) &#x1F536
 ### CFD
-- [VKI Large Eddy Simulation and Related Techniques Brussels May 13 - 17](https://www.vki.ac.be/index.php/events-ls/events/eventdetail/566/-/lecture-series-large-eddy-simulation-and-related-techniques)
+- [VKI Large Eddy Simulation and Related Techniques Brussels May 13 - 17](https://www.vki.ac.be/index.php/events-ls/events/eventdetail/566/-/lecture-series-large-eddy-simulation-and-related-techniques) &#x1F536
 - [Multiphase Flows - Simulation, Experiment and Application 11-15 Nov Germany](https://www.hzdr.de/db/Cms?pOid=70003&pNid=1296)
-- [ERCOFTAC Spring Festival (UC3M, Madrid; 16th - 17th May 2024)](https://www.ercoftac.org/events/ercoftac-spring-festival-2024/)
+- [ERCOFTAC Spring Festival (UC3M, Madrid; 16th - 17th May 2024)](https://www.ercoftac.org/events/ercoftac-spring-festival-2024/) &#x1F536
 - [Coherent Structures in Aeroacoustics (Poitiers, France; 10th - 12th June 2024)](https://www.ercoftac.org/events/coherent-structures-in-aeroacoustics/)
 
 \
 Seem too advanced:  
-- [DLES14 - Direct and Large Eddy Simulation (Erlangen-Nürnberg, Germany; 10th until 12th April 2024)](https://dles.ercoftac.org/dles/)
-- [18th ERCOFTAC SIG15 Workshop on Refined Turbulence Modelling (Sarajevo, MAY 2024)](https://www.ercoftac.org/events/18th-ercoftac-sig15-workshop-on-refined-turbulence-modelling/)
+- [DLES14 - Direct and Large Eddy Simulation (Erlangen-Nürnberg, Germany; 10th until 12th April 2024)](https://dles.ercoftac.org/dles/) &#x1F535
+- [18th ERCOFTAC SIG15 Workshop on Refined Turbulence Modelling (Sarajevo, MAY 2024)](https://www.ercoftac.org/events/18th-ercoftac-sig15-workshop-on-refined-turbulence-modelling/) &#x1F536
 
 ### Data Assimilation
 - [19th international EnKF workshop (June 17 - 19, Os, Norway) (900€ + flights and some food...)](https://www.data-assimilation.no/workshops/EnKF-WS-2024)
-- [University of Reading (UK) (Online or presential, 7th-10th May 2024)](https://research.reading.ac.uk/met-darc/training/training-courses/)
+- [University of Reading (UK) (Online or presential, 7th-10th May 2024)](https://research.reading.ac.uk/met-darc/training/training-courses/) &#x1F536
 - [CWI (in the Netherlands and the second half of the year)](https://www.cwi.nl/en/education/semester-programmes/cwi-research-semester-programs/uncertainty-quantification-for-high-dimensional-problems/)
 ### Air pollution
 - [Wessex Institute of Technology](https://www.wessex.ac.uk/courses)
@@ -32,21 +32,21 @@ Seem too advanced:
 
 ### Programming
 - [Cuda Programming, 8-9th April TU Delft](https://www.tudelft.nl/evenementen/2024/dcse/courses/programming-on-the-gpu-with-cuda)
-- [Workshop on Computational and Mathematical Methods in Data Science 2024, Delft University of Technology, April 25-26, 2024](https://searhein.github.io/gamm-cominds-2024/)
+- [Workshop on Computational and Mathematical Methods in Data Science 2024, Delft University of Technology, April 25-26, 2024](https://searhein.github.io/gamm-cominds-2024/) &#x1F535
 - [Summer school about HPC](https://ssl.eventilla.com/summerschool2024)
 
 **Juelich**
 - [Introduction to parallel programming with MPI and OpenMP for beginners (18th-20th March 09:00h-17:00h)](https://www.fz-juelich.de/en/ias/jsc/news/events/training-courses/2024/mpi-intro) &#x1F534;
-- [GPU Programming Part 1: Foundations (training course, on-site) (Apr 8-10th, 9-16:30h)](https://www.fz-juelich.de/en/ias/jsc/news/events/training-courses/2024/gpu-cuda)
-- [Programming in C++ (May 13-17th, 9-16:30h)](https://www.fz-juelich.de/en/ias/jsc/news/events/training-courses/2024/cplusplus)
+- [GPU Programming Part 1: Foundations (training course, on-site) (Apr 8-10th, 9-16:30h)](https://www.fz-juelich.de/en/ias/jsc/news/events/training-courses/2024/gpu-cuda) &#x1F535
+- [Programming in C++ (May 13-17th, 9-16:30h)](https://www.fz-juelich.de/en/ias/jsc/news/events/training-courses/2024/cplusplus) &#x1F536
 
 ## Online:
 ### ML
 - [1. BOOTCAMP: AI for Science Bootcamp](https://www.hlrs.de/training/2024/bc-ai-nv) (**Online**: June 25-26, 2024, **Registration closes on May 14, 2024**)
-- [PINNs 2 days course (**Online**: 25-26 June, **Registration closes on May 14**)](https://www.hlrs.de/training/2024/bc-ai-nv)
+- [PINNs 2 days course (**Online**: 25-26 June, **Registration closes on May 14**)](https://www.hlrs.de/training/2024/bc-ai-nv) &#x1F536
 - [Explainable AI (XAI) (Requires minimal knowledge of Tensorflow and PyTorch), 5-7th June, 9-13h](https://www.fz-juelich.de/en/ias/jsc/news/events/training-courses/2024/explainable-dl)
 ### CFD
-- [BOOTCAMP: N-Ways to GPU Programming (**Online**: Apr 03, 2024)](https://www.hlrs.de/training/2024/bc-gpu-nv)
+- [BOOTCAMP: N-Ways to GPU Programming (**Online**: Apr 03, 2024)](https://www.hlrs.de/training/2024/bc-gpu-nv) &#x1F535
 - [Just recordings, SIMPLE Algorithm (uncompressible, steady state, isothermal, single phase)](https://dr-aidan-wimshurst-s-school.teachable.com/p/the-simple-algorithm)
 - [OpenFOAM courses of Wolf Dynamics](http://www.wolfdynamics.com/tutorials.html?id=187)
 - [Introduction to ANSYS Fluent on LRZ HPC Systems](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=516)
