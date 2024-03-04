@@ -2,7 +2,10 @@
 &#x1F534; in March
 &#x1F535; in April
 &#x1F536; in May
-&#x1F537; in June
+&#x1F537; 
+&#x1F4D7; 
+&#x1F4D8; 
+&#x1F4D9; 
 ## Presential Courses
 
 ### ML
