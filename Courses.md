@@ -2,10 +2,10 @@
 &#x1F534; in March
 &#x1F535; in April
 &#x1F536; in May
-&#x1F537; 
-&#x1F4D7; 
+&#x1F4D7; in June
 &#x1F4D8; 
 &#x1F4D9; 
+&#x1F537; 
 ## Presential Courses
 
 ### ML
@@ -15,7 +15,7 @@
 - [VKI Large Eddy Simulation and Related Techniques Brussels May 13 - 17](https://www.vki.ac.be/index.php/events-ls/events/eventdetail/566/-/lecture-series-large-eddy-simulation-and-related-techniques) &#x1F536
 - [Multiphase Flows - Simulation, Experiment and Application 11-15 Nov Germany](https://www.hzdr.de/db/Cms?pOid=70003&pNid=1296)
 - [ERCOFTAC Spring Festival (UC3M, Madrid; 16th - 17th May 2024)](https://www.ercoftac.org/events/ercoftac-spring-festival-2024/) &#x1F536
-- [Coherent Structures in Aeroacoustics (Poitiers, France; 10th - 12th June 2024)](https://www.ercoftac.org/events/coherent-structures-in-aeroacoustics/)
+- [Coherent Structures in Aeroacoustics (Poitiers, France; 10th - 12th June 2024)](https://www.ercoftac.org/events/coherent-structures-in-aeroacoustics/) &#x1F4D7
 
 \
 Seem too advanced:  
@@ -23,7 +23,7 @@ Seem too advanced:
 - [18th ERCOFTAC SIG15 Workshop on Refined Turbulence Modelling (Sarajevo, MAY 2024)](https://www.ercoftac.org/events/18th-ercoftac-sig15-workshop-on-refined-turbulence-modelling/) &#x1F536
 
 ### Data Assimilation
-- [19th international EnKF workshop (June 17 - 19, Os, Norway) (900€ + flights and some food...)](https://www.data-assimilation.no/workshops/EnKF-WS-2024)
+- [19th international EnKF workshop (June 17 - 19, Os, Norway) (900€ + flights and some food...)](https://www.data-assimilation.no/workshops/EnKF-WS-2024) &#x1F4D7
 - [University of Reading (UK) (Online or presential, 7th-10th May 2024)](https://research.reading.ac.uk/met-darc/training/training-courses/) &#x1F536
 - [CWI (in the Netherlands and the second half of the year)](https://www.cwi.nl/en/education/semester-programmes/cwi-research-semester-programs/uncertainty-quantification-for-high-dimensional-problems/)
 ### Air pollution
@@ -42,9 +42,9 @@ Seem too advanced:
 
 ## Online:
 ### ML
-- [1. BOOTCAMP: AI for Science Bootcamp](https://www.hlrs.de/training/2024/bc-ai-nv) (**Online**: June 25-26, 2024, **Registration closes on May 14, 2024**)
-- [PINNs 2 days course (**Online**: 25-26 June, **Registration closes on May 14**)](https://www.hlrs.de/training/2024/bc-ai-nv) &#x1F536
-- [Explainable AI (XAI) (Requires minimal knowledge of Tensorflow and PyTorch), 5-7th June, 9-13h](https://www.fz-juelich.de/en/ias/jsc/news/events/training-courses/2024/explainable-dl)
+- [1. BOOTCAMP: AI for Science Bootcamp](https://www.hlrs.de/training/2024/bc-ai-nv) (**Online**: June 25-26, 2024, **Registration closes on May 14, 2024**) &#x1F4D7
+- [PINNs 2 days course (**Online**: 25-26 June, **Registration closes on May 14**)](https://www.hlrs.de/training/2024/bc-ai-nv) &#x1F4D7
+- [Explainable AI (XAI) (Requires minimal knowledge of Tensorflow and PyTorch), 5-7th June, 9-13h](https://www.fz-juelich.de/en/ias/jsc/news/events/training-courses/2024/explainable-dl) &#x1F4D7
 ### CFD
 - [BOOTCAMP: N-Ways to GPU Programming (**Online**: Apr 03, 2024)](https://www.hlrs.de/training/2024/bc-gpu-nv) &#x1F535
 - [Just recordings, SIMPLE Algorithm (uncompressible, steady state, isothermal, single phase)](https://dr-aidan-wimshurst-s-school.teachable.com/p/the-simple-algorithm)
@@ -66,9 +66,9 @@ Seem too advanced:
 - [Modern C++ Software Design (Intermediate) (9-12 July, 8:30-16:30h)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=586)
 - [Modern C++ Software Design (Advanced) (HYBRID course)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=557)
 
-- [Simulation - Grundlagen & CFD (I don't know what will be the language) (10-19 June)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=541)
+- [Simulation - Grundlagen & CFD (I don't know what will be the language) (10-19 June)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=541) &#x1F4D7
 
-- [Introduction to Explainable Deep Learning on Supercomputers (5-7 June, 9-13h)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=573)
+- [Introduction to Explainable Deep Learning on Supercomputers (5-7 June, 9-13h)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=573) &#x1F4D7
 
 - [Linux (11 March, 9-13h)](https://admin.kuleuven.be/icts/opleidingen/opleidingsaanbod/linux-tools-online) &#x1F534;
 
