@@ -37,9 +37,7 @@ Seem too advanced:
 ## Online:
 ### ML
 - [1. BOOTCAMP: AI for Science Bootcamp](https://www.hlrs.de/training/2024/bc-ai-nv) (**Online**: June 25-26, 2024, **Registration closes on May 14, 2024**)
-- [Introduction to Computational Fluid Dynamics (**Online**: Feb 05, 2024)](https://www.hlrs.de/training/2024/CFD-ZIH)
-- [PINNs 2 days course (**Online**: 25, 26 June, **Registration closes on May 14**)](https://www.hlrs.de/training/2024/bc-ai-nv)
-- [Nvidea Karniadakis DL course with PINNs (recordings)](https://www.nvidia.com/en-us/on-demand/playlist/playList-4ed5aea1-577e-4583-8895-ab704298765e/)
+- [PINNs 2 days course (**Online**: 25-26 June, **Registration closes on May 14**)](https://www.hlrs.de/training/2024/bc-ai-nv)
 - [Explainable AI (XAI) (Requires minimal knowledge of Tensorflow and PyTorch), 5-7th June, 9-13h](https://www.fz-juelich.de/en/ias/jsc/news/events/training-courses/2024/explainable-dl)
 ### CFD
 - [BOOTCAMP: N-Ways to GPU Programming (**Online**: Apr 03, 2024)](https://www.hlrs.de/training/2024/bc-gpu-nv)
@@ -69,7 +67,7 @@ Seem too advanced:
 - [Linux (11 March, 9-13h)](https://admin.kuleuven.be/icts/opleidingen/opleidingsaanbod/linux-tools-online)
 
 On demand:
-
+- [Nvidea Karniadakis DL course with PINNs (recordings)](https://www.nvidia.com/en-us/on-demand/playlist/playList-4ed5aea1-577e-4583-8895-ab704298765e/)
 - [Slides of courses of fz-juelich (No recordings)](https://www.fz-juelich.de/en/ias/jsc/education/training-courses/training-materials)
 - [Open Courses in Github with code (there is 1/2 of ML) (No recordings)](https://edcarp.github.io/Ed-DaSH/workshops.html)
 ## To check in the future:
