@@ -40,7 +40,7 @@
   
 ## Online:
 ### ML
-- [1. BOOTCAMP: AI for Science Bootcamp](https://www.hlrs.de/training/2024/bc-ai-nv) (**Online**: June 25-26, 2024, **Registration closes on May 14, 2024**) &#x1F4D7;
+- [AI for Science Bootcamp](https://www.hlrs.de/training/2024/bc-ai-nv) (**Online**: June 25-26, 2024, **Registration closes on May 14, 2024**) &#x1F4D7;
 - [PINNs 2 days course (**Online**: 25-26 June, **Registration closes on May 14**)](https://www.hlrs.de/training/2024/bc-ai-nv) &#x1F4D7
 - [Explainable AI (XAI) (Requires minimal knowledge of Tensorflow and PyTorch), 5-7th June, 9-13h](https://www.fz-juelich.de/en/ias/jsc/news/events/training-courses/2024/explainable-dl) &#x1F4D7;
 ### CFD
