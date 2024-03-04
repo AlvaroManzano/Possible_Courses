@@ -29,6 +29,11 @@ Seem too advanced:
 - [Workshop on Computational and Mathematical Methods in Data Science 2024, Delft University of Technology, April 25-26, 2024](https://searhein.github.io/gamm-cominds-2024/)
 - [Summer school about HPC](https://ssl.eventilla.com/summerschool2024)
 
+**Juelich**
+- [Introduction to parallel programming with MPI and OpenMP for beginners (18th-20th March 09:00h-17:00h)](https://www.fz-juelich.de/en/ias/jsc/news/events/training-courses/2024/mpi-intro)
+- [GPU Programming Part 1: Foundations (training course, on-site) (Apr 8-10th, 9-16:30h)](https://www.fz-juelich.de/en/ias/jsc/news/events/training-courses/2024/gpu-cuda)
+- [Programming in C++ (May 13-17th, 9-16:30h)](https://www.fz-juelich.de/en/ias/jsc/news/events/training-courses/2024/cplusplus)
+
 ## Online:
 ### ML
 - [1. BOOTCAMP: AI for Science Bootcamp](https://www.hlrs.de/training/2024/bc-ai-nv) (**Online**: June 25-26, 2024, **Registration closes on May 14, 2024**)
