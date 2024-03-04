@@ -66,10 +66,11 @@ Seem too advanced:
 
 - [Linux (11 March, 9-13h)](https://admin.kuleuven.be/icts/opleidingen/opleidingsaanbod/linux-tools-online)
 
-On demand:
+## On demand:
 - [Nvidea Karniadakis DL course with PINNs (recordings)](https://www.nvidia.com/en-us/on-demand/playlist/playList-4ed5aea1-577e-4583-8895-ab704298765e/)
 - [Slides of courses of fz-juelich (No recordings)](https://www.fz-juelich.de/en/ias/jsc/education/training-courses/training-materials)
 - [Open Courses in Github with code (there is 1/2 of ML) (No recordings)](https://edcarp.github.io/Ed-DaSH/workshops.html)
+
 ## To check in the future:
 - [Dutch-Flemish Scientific Computing Society](https://wsc.project.cwi.nl/events)
 - [JM burgerscentrum](https://www.tudelft.nl/jmburgerscentrum/courses/registration)
