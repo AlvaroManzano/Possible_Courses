@@ -10,5 +10,4 @@
 - [Introduction to Bayesian Statistical Learning (18-22 March, 9-13h)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=566) 🔴
 - [Fundamentals of Deep Learning [DLIW61557] (Mar 19, 9:00 AM - 5:00 PM CET)](https://www.nvidia.com/gtc/session-catalog/?tab.allsessions=1700692987788001F1cG&search.sessiontype=1701905400491001STQ1&search=DLIW61557#/session/1694112676966001AIrI) 🔴
 - [Applications of AI for Anomaly Detection [DLIW61565] (Mar 21, 9:00 AM - 5:00 PM CET)](https://www.nvidia.com/gtc/session-catalog/?tab.allsessions=1700692987788001F1cG&search.sessiontype=1701905400491001STQ1&search=DLIW61565#/session/1694112677451001AOTu) 🔴
-- [C++ for scientific computing (21 Feb, 1, 6, 8 March, 9-13h)](https://admin.kuleuven.be/icts/opleidingen/opleidingsaanbod/c-for-scientific-computing) 🔴
 - [Linux (11 March, 9-13h)](https://admin.kuleuven.be/icts/opleidingen/opleidingsaanbod/linux-tools-online) 🔴
