@@ -1,4 +1,4 @@
-# Courses of Interest:
+# Courses of Interest
 
 ## Presential Courses
 
