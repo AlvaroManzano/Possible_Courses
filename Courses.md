@@ -86,3 +86,4 @@
 - [CWI (in the Netherlands and the second half of the year)](https://www.cwi.nl/en/education/semester-programmes/cwi-research-semester-programs/uncertainty-quantification-for-high-dimensional-problems/)
 - [Training Centres in Europe, CFD-HPC-ML](https://prace-ri.eu/training-support/training/)
 - [eurocc-access](https://www.eurocc-access.eu/services/training/)
+- [time-x](https://time-x.eu/events/)
