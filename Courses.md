@@ -55,7 +55,6 @@
 - [Simulation - Grundlagen & CFD (I don't know what will be the language) (10-19 June)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=541) &#x1F4D7;
 - [Introduction to Explainable Deep Learning on Supercomputers (5-7 June, 9-13h)](https://www.gauss-centre.eu/trainingsworkshops/?dfxid=573) &#x1F4D7;
 - [NVIDEA Courses (Paid)](https://www.nvidia.com/gtc/training/?deeplink=gtc-dli-tabs--2)
-    - [Fundamentals of Deep Learning [DLIW61557] (Mar 19, 9:00 AM - 5:00 PM CET))](https://www.nvidia.com/gtc/session-catalog/?tab.allsessions=1700692987788001F1cG&search.sessiontype=1701905400491001STQ1&search=DLIW61557#/session/1694112676966001AIrI) &#x1F534;
     - [Fundamentals of Accelerated Computing with CUDA Python [DLIW61560]](https://www.nvidia.com/gtc/session-catalog/?tab.allsessions=1700692987788001F1cG&search.sessiontype=1701905400491001STQ1&search=DLIW61560#/session/1694112677143001Ah9U)
 
 ## On demand
