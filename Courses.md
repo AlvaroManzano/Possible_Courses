@@ -57,9 +57,6 @@
 - [NVIDEA Courses (Paid)](https://www.nvidia.com/gtc/training/?deeplink=gtc-dli-tabs--2)
     - [Fundamentals of Deep Learning [DLIW61557] (Mar 19, 9:00 AM - 5:00 PM CET))](https://www.nvidia.com/gtc/session-catalog/?tab.allsessions=1700692987788001F1cG&search.sessiontype=1701905400491001STQ1&search=DLIW61557#/session/1694112676966001AIrI) &#x1F534;
     - [Fundamentals of Accelerated Computing with CUDA Python [DLIW61560]](https://www.nvidia.com/gtc/session-catalog/?tab.allsessions=1700692987788001F1cG&search.sessiontype=1701905400491001STQ1&search=DLIW61560#/session/1694112677143001Ah9U)
-    - [Model Parallelism: Building and Deploying Large Neural Networks [DLIW61566]](https://www.nvidia.com/gtc/session-catalog/?tab.allsessions=1700692987788001F1cG&search.sessiontype=1701905400491001STQ1&search=DLIW61566#/session/1694112677518001Azm0)
-    - [Applications of AI for Anomaly Detection [DLIW61565] (Mar 21, 9:00 AM - 5:00 PM CET)](https://www.nvidia.com/gtc/session-catalog/?tab.allsessions=1700692987788001F1cG&search.sessiontype=1701905400491001STQ1&search=DLIW61565#/session/1694112677451001AOTu) &#x1F534;
-
 
 ## On demand
 - [Nvidea Karniadakis DL course with PINNs (recordings)](https://www.nvidia.com/en-us/on-demand/playlist/playList-4ed5aea1-577e-4583-8895-ab704298765e/)
