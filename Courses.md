@@ -25,7 +25,7 @@
 ### Air pollution
 - [Wessex Institute of Technology](https://www.wessex.ac.uk/courses)
   - [The 2023 Introduction to Air Pollution Modeling course is available for free](https://www.youtube.com/playlist?list=PLjkwSa84fW39meGVD6kl4GGgD1XgVRLb1)
-
+- [Multiphase Flows - Simulation, Experiment and Application (11-15th Nov, 2 first days courses, 2 last days conference)](https://www.hzdr.de/db/Cms?pOid=70004&pNid=1296)
 ### Programming
 - [Cuda Programming, 8-9th April TU Delft](https://www.tudelft.nl/evenementen/2024/dcse/courses/programming-on-the-gpu-with-cuda)
 - [Workshop on Computational and Mathematical Methods in Data Science 2024, Delft University of Technology, April 25-26, 2024](https://searhein.github.io/gamm-cominds-2024/) &#x1F535;
