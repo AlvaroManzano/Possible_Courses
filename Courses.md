@@ -72,6 +72,7 @@
 
 
 ## To check in the future:
+- [Basque Center for Applied Mathematics](https://www.bcamath.org/en/news-events/events)
 - [Dutch-Flemish Scientific Computing Society](https://wsc.project.cwi.nl/events)
 - [JM burgerscentrum](https://www.tudelft.nl/jmburgerscentrum/courses/registration)
 - [Fz-Juelich](https://www.fz-juelich.de/en/ias/jsc/news/events/training-courses)
