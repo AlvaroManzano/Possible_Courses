@@ -72,6 +72,7 @@
 
 
 ## To check in the future:
+- [Leibniz Supercomputing Centre](https://app1.edoobox.com/en/LRZ/)
 - [Basque Center for Applied Mathematics](https://www.bcamath.org/en/news-events/events)
 - [Dutch-Flemish Scientific Computing Society](https://wsc.project.cwi.nl/events)
 - [JM burgerscentrum](https://www.tudelft.nl/jmburgerscentrum/courses/registration)
