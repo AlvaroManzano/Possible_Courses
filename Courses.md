@@ -89,3 +89,4 @@
 - [Training Centres in Europe, CFD-HPC-ML](https://prace-ri.eu/training-support/training/)
 - [eurocc-access](https://www.eurocc-access.eu/services/training/)
 - [time-x](https://time-x.eu/events/)
+- [JMBC](https://www.tudelft.nl/jmburgerscentrum/courses)
