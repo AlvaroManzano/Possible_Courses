@@ -15,7 +15,6 @@
 ### CFD
 - [VKI Large Eddy Simulation and Related Techniques Brussels May 13 - 17](https://www.vki.ac.be/index.php/events-ls/events/eventdetail/566/-/lecture-series-large-eddy-simulation-and-related-techniques) &#x1F536;
 - [Multiphase Flows - Simulation, Experiment and Application 11-15 Nov Germany](https://www.hzdr.de/db/Cms?pOid=70003&pNid=1296)
-- [ERCOFTAC Spring Festival (UC3M, Madrid; 16th - 17th May 2024)](https://www.ercoftac.org/events/ercoftac-spring-festival-2024/) &#x1F536;
 - [Coherent Structures in Aeroacoustics (Poitiers, France; 10th - 12th June 2024)](https://www.ercoftac.org/events/coherent-structures-in-aeroacoustics/) &#x1F4D7;
 
 ### Data Assimilation
