@@ -72,6 +72,7 @@
 
 
 ## To check in the future:
+- [EuroCC](https://www.eurocc-access.eu/services/training/)
 - [Leibniz Supercomputing Centre](https://app1.edoobox.com/en/LRZ/)
 - [Basque Center for Applied Mathematics](https://www.bcamath.org/en/news-events/events)
 - [Dutch-Flemish Scientific Computing Society](https://wsc.project.cwi.nl/events)
